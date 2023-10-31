@@ -1,0 +1,106 @@
+{
+    "Estonia": {
+      "regions": [
+        {
+          "name": "Harju maakond",
+          "cities": [
+            {
+              "name": "Tallinn",
+              "villages": [
+                {"name": "Viimsi"},
+                {"name": "Keila"},
+                {"name": "Saue"}
+              ]
+            },
+            {
+              "name": "Maardu",
+              "villages": [
+                {"name": "Kallavere"},
+                {"name": "Muuga"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tartu maakond",
+          "cities": [
+            {
+              "name": "Tartu",
+              "villages": [
+                {"name": "Elva"},
+                {"name": "Kallaste"},
+                {"name": "Otepää"}
+              ]
+            },
+            {
+              "name": "Kambja",
+              "villages": [
+                {"name": "Kambja"},
+                {"name": "Härjanurme"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pärnu maakond",
+          "cities": [
+            {
+              "name": "Pärnu",
+              "villages": [
+                {"name": "Tõstamaa"},
+                {"name": "Sindi"},
+                {"name": "Vändra"}
+              ]
+            },
+            {
+              "name": "Paikuse",
+              "villages": [
+                {"name": "Paikuse"},
+                {"name": "Kihlepa"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lääne maakond",
+          "cities": [
+            {
+              "name": "Haapsalu",
+              "villages": [
+                {"name": "Kullamaa"},
+                {"name": "Vormsi"},
+                {"name": "Risti"}
+              ]
+            },
+            {
+              "name": "Lihula",
+              "villages": [
+                {"name": "Lihula"},
+                {"name": "Koonga"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ida-Viru maakond",
+          "cities": [
+            {
+              "name": "Narva",
+              "villages": [
+                {"name": "Narva-Jõesuu"},
+                {"name": "Sillamäe"},
+                {"name": "Kiviõli"}
+              ]
+            },
+            {
+              "name": "Kohtla-Järve",
+              "villages": [
+                {"name": "Kohtla-Järve"},
+                {"name": "Jõhvi"}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+}
