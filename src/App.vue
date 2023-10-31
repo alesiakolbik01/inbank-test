@@ -75,7 +75,7 @@ export default {
     }
   },
   created() {
-    fetch('/dist/data/user-contact.json')
+    fetch('/data/user-contact.json')
       .then((response) => response.json())
       .then((data) => {
         this.userData.userContact = data.userContact;

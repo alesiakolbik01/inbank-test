@@ -174,7 +174,7 @@ export default {
     }
   },
   created() {
-    fetch('/dist/data/geonames.json')
+    fetch('/data/geonames.json')
       .then((response) => response.json())
       .then((json) => {
         const geoNames = json[this.formData.country];
