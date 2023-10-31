@@ -77,7 +77,7 @@ export default {
         setMode() {
             this.edit = !this.edit;
             if (!this.edit) {
-                this.$emit('changeMonthlyPayment', { userContacts: { ...this.userData } })
+                this.$emit('changeMonthlyPayment', { userContact: { ...this.userData } })
             }
         }
     },
